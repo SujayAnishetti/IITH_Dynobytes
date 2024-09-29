@@ -23,6 +23,6 @@ Welcome to our 3D Outfit Design Marketplace! This platform allows users to unlea
 
 ## Team Members:
 
-Sujay Anishetti
-Astuti Sinha
-Shaik Zainab
+1. Sujay Anishetti
+2. Astuti Sinha
+3. Shaik Zainab
