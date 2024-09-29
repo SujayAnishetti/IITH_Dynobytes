@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.marketplace {
+  text-align: center;
+  padding: 20px;
+}
+
+.shirts-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.shirt-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+}
+
+.shirt-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product {
+  text-align: center;
+  padding: 20px;
+}
+
+.product img {
+  max-width: 300px;
+  height: auto;
+}

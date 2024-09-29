@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Hawk Tuah",
+      "price": "799/-",
+      "image": "/images/white-shirt.jpg",
+      "manufacturer": "Fashion Co.",
+      "description": "A stylish white shirt perfect for all occasions."
+    },
+    {
+      "id": 2,
+      "name": "Talk Tuah",
+      "price": "799/-",
+      "image": "/images/black-shirt.jpg",
+      "manufacturer": "Trendy Wear",
+      "description": "A classic black shirt with a modern twist."
+    },
+    {
+      "id": 3,
+      "name": "Why So Serious",
+      "price": "799/-",
+      "image": "/images/graphic-shirt.jpg",
+      "manufacturer": "Artistic Threads",
+      "description": "A graphic shirt that speaks volumes."
+    },
+    {
+      "id": 4,
+      "name": "Skibidi",
+      "price": "799/-",
+      "image": "/images/red-shirt.jpg",
+      "manufacturer": "Bold Fashion",
+      "description": "A trendy red shirt for the bold."
+    }
+  ]
+  
