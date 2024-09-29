@@ -20,3 +20,9 @@ Welcome to our 3D Outfit Design Marketplace! This platform allows users to unlea
 1. *Sign Up*: Create an account on our platform to access the design tools and marketplace.
 2. *Explore the Interface*: Familiarize yourself with the 3D design interface and the features available to you.
 3. *Start Designing*: Begin creating your unique outfits and publish them for the world to see!
+
+## Team Members:
+
+Sujay Anishetti
+Astuti Sinha
+Shaik Zainab
